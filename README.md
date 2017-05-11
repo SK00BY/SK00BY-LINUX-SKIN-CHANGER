@@ -2,7 +2,7 @@
 SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I needed to change a few things to make it safer and easier to use. 
 
 
-HOW TO INJECT:
+# HOW TO INJECT:
 
 1. Download the file and extract it somewhere
 2. Open terminal and type cd then drag the folder into it
@@ -16,7 +16,7 @@ HOW TO INJECT:
 10. Then type continue
 
 
-HOW TO CHANGE YOUR SKIN:
+# HOW TO CHANGE YOUR SKIN:
 
 1. Go into skins.h
 2. This is where all the skin files are stored, for example
