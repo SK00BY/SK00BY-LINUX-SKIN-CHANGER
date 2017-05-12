@@ -1,5 +1,7 @@
 # SK00BY
-SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I needed to change a few things to make it safer and easier to use. 
+SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I needed to change a few things to make it safer and easier to use.
+
+# THIS IS NOT MEANT FOR ONLINE PLAY, USE AT YOUR OWN RISK!!!
 
 
 # HOW TO INJECT:
@@ -38,3 +40,4 @@ inline void SetKillIconCfg() {
 
 3. This is code that is already in the skins.h file and will change your skins
 4. If you want to change the default skins I have set just find the CS-GO skins file and paste it here
+5. Lastly I recommend using Visual Studio to modify any of the code
