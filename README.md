@@ -20,7 +20,7 @@ SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I ne
 
 # HOW TO CHANGE YOUR SKIN:
 
-1. Go into skins.h
+1. Go into src/Hooks/FrameStageNotify.cc
 2. This is where all the skin files are stored, for example
 
 
