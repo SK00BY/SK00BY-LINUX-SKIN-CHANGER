@@ -22,6 +22,8 @@ SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I ne
 
 1. Go into skins.h
 2. This is where all the skin files are stored, for example
+
+
 // Example to replace the default CT knife with a ★ Karambit | Fade.
 inline void SetSkinConfig() {
 	g_SkinChangerCfg[WEAPON_KNIFE].iItemDefinitionIndex = WEAPON_KNIFE_KARAMBIT;
