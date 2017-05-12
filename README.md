@@ -1,10 +1,21 @@
 # SK00BY
 SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I needed to change a few things to make it safer and easier to use.
 
+
+
+
+
 # THIS IS NOT MEANT FOR ONLINE PLAY, USE AT YOUR OWN RISK!!!
 
 
+
+
+
 # HOW TO INJECT:
+
+
+
+
 
 1. Download the file and extract it somewhere
 2. Open terminal and type cd then drag the folder into it
@@ -19,6 +30,11 @@ SK00BY is a improved version of Chameleon by @axxie. Personally I felt like I ne
 
 
 # HOW TO CHANGE YOUR SKIN:
+
+
+
+
+
 
 1. Go into src/Hooks/FrameStageNotify.cc
 2. This is where all the skin files are stored, for example
